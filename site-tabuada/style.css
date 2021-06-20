@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+
+body{
+    margin:10px;
+    background-color: beige;
+}
+
+.div-tab{
+    margin: auto;
+width: 500px;
+background-color: brown;
+border: 2px solid red;
+border-radius: 10px;
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h1:hover{
+    animation: cor 10s linear;
+    cursor: pointer;
+}
+h2{
+    margin: 10px;
+    color:white;
+    background-color: rgb(97, 1, 1);
+    border-radius: 10px;
+    text-align: center;
+}
+h4{
+    opacity: 0.2;
+    color:white;
+    left: 500px;
+    position: absolute;
+    font-size: 80px;
+    font-weight: bold;
+}
+h4:hover{
+    animation: cor-fonte 5s linear;
+    cursor: pointer;
+}
+@keyframes cor{
+    from{
+        background-color: brown;
+    }
+    5%{
+        background-color: red;
+    }
+    100%{
+        background-color: red;
+    }
+}
+@keyframes cor-fonte{
+    from{
+    color: white;
+    }
+    5%{
+ color: red;
+ opacity: 1;
+    }
+    75%{
+        color:black;
+        opacity: 1;
+    }    
+    100%{
+        opacity: 1;
+       color: rgb(242, 80, 80);
+    }
+}
