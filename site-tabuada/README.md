@@ -5,4 +5,4 @@
  * animaçâo keyframes
  * usando o for encadeado para formar a tabuada
 
-![imagem](https://github.com/leandroluizpereira/Javascript/blob/main/site-tabuada/tabuada.png)
+![imagem](https://github.com/leandroluizpereira/javascripts/blob/main/site-tabuada/tabuada.png)
