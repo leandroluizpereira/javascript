@@ -1,5 +1,5 @@
 # 📚 Anotaçôes sobre a linguagem Javascript
- 
+ <!--
  ## Tópicos Wiki
  :star:Básico
  * [Fontes e pesquisas](https://github.com/leandroluizpereira/javascript/wiki)
@@ -15,7 +15,7 @@
  * [Estrutura de repetiçâo (for,while,do-while)]()
  * [Métodos]()
  * [Função (procedimento)]()
- 
+ -->
  
 ## Javascript & Html
   :star:Javascript e web Html
