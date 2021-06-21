@@ -5,7 +5,7 @@
  * [Fontes e pesquisas](https://github.com/leandroluizpereira/javascript/wiki)
  * [Sintaxe da linguagem](https://github.com/leandroluizpereira/javascript/wiki/1-sintaxe-da-linguagem)
  * [Sobre a linguagem javascript](https://github.com/leandroluizpereira/javascript/wiki/1.1-sobre-a-linguagem-javascript)
- * [Declaraçâo de variáveis]()
+ * [Declaraçâo de variáveis](https://github.com/leandroluizpereira/javascript/wiki/1.2-Declara%C3%A7%C3%A2o-de-vari%C3%A1veis)
  * [Operadores Aritimética]()
  * [Operadores Lógico]()
  * [Interpolaçâo de variáveis]()
