@@ -15,13 +15,14 @@
  * [Estrutura de repetiçâo (for,while,do-while)]()
  * [Métodos]()
  * [Função (procedimento)]()
- -->
- 
+
+ <!--
 ## Javascript & Html
   :star:Javascript e web Html
    * [Mudar de tela após 6 segundos]()
    * [(Unicode) Formatar caracteres e espaços ]()
-
+ -
+-->
  
  <div id="sobre">
  
