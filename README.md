@@ -4,7 +4,7 @@
  :star:Básico
  * [Fontes e pesquisas](https://github.com/leandroluizpereira/javascript/wiki)
  * [Sintaxe da linguagem](https://github.com/leandroluizpereira/javascript/wiki/1-sintaxe-da-linguagem)
- * [Sobre a linguagem javascript]()
+ * [Sobre a linguagem javascript](https://github.com/leandroluizpereira/javascript/wiki/1.1-sobre-a-linguagem-javascript)
  * [Declaraçâo de variáveis]()
  * [Operadores Aritimética]()
  * [Operadores Lógico]()
