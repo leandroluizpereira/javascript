@@ -2,7 +2,7 @@
  
  ## Tópicos Wiki
  :star:Básico
- * [Fontes e pesquisas](https://github.com/leandroluizpereira/Javascript/wiki/0-Home---Fontes-de-estudos)
+ * [Fontes e pesquisas](https://github.com/leandroluizpereira/javascript/wiki)
  * [Sintaxe da linguagem](https://github.com/leandroluizpereira/Javascript/wiki/1.1-Sintaxe-da-linguagem)
  * [Sobre a linguagem javascript](https://github.com/leandroluizpereira/Javascript/wiki/1----Historia)
  * [Declaraçâo de variáveis](https://github.com/leandroluizpereira/Javascript/wiki/2-Declara%C3%A7%C3%A2o-de-vari%C3%A1veis)
