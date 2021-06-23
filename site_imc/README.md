@@ -3,4 +3,4 @@
  ## site IMC
  * usando estrutura if 
 
-![imagem]()
+![imagem](https://github.com/leandroluizpereira/javascript/blob/main/site_imc/2021-06-23.png)
