@@ -7,4 +7,6 @@
 
 ![imagem](https://github.com/leandroluizpereira/javascript/blob/main/site-tabuada/2021-06-24%20(3).png)
 
+## com ação hover para facil visualização
+
 ![imagem](https://github.com/leandroluizpereira/javascript/blob/main/site-tabuada/2021-06-24%20(2).png)
