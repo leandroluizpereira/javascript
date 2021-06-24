@@ -19,7 +19,7 @@
  <!--
  * [Função (procedimento)]()
 
-
+ <!--
 ## Javascript & Html
   :star:Javascript e web Html
    * [Mudar de tela após 6 segundos]()
