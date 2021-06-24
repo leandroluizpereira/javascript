@@ -27,7 +27,7 @@
  -
 -->
  ## 🖥️ Prática (link dos repósitorios)
- * [Site: tabuada](https://github.com/leandroluizpereira/javascript/tree/main/site-tabuada)
+ * [site: tabuada](https://github.com/leandroluizpereira/javascript/tree/main/site-tabuada)
  * [site: imc](https://github.com/leandroluizpereira/javascript/tree/main/site_imc)
  * [site: google_glass - Curso em video gustavo guanabara](https://github.com/leandroluizpereira/site-google-glass)
  * [site: tudo sobre esporte - projeto integrado 7º semestre](https://github.com/leandroluizpereira/project-web-sport)
