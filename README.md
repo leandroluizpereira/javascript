@@ -1,6 +1,6 @@
 # 📚 linguagem Javascript anotaçôes importante das máterias
 
- ## link dos tópicos do  Wiki
+ ## anotaçôes (link dos tópicos do  Wiki)
  :star:Básico
  * [Fontes e pesquisas](https://github.com/leandroluizpereira/javascript/wiki)
  * [Sintaxe da linguagem](https://github.com/leandroluizpereira/javascript/wiki/1-sintaxe-da-linguagem)
