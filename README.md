@@ -14,10 +14,12 @@
  * [Concatenaçâo de variáveis]()
  * [Estrutura de desição (if,swicth)]()
  * [Estrutura de repetiçâo (for,while,do-while)]()
- * [Métodos]()
+-->
+ * [Métodos](https://github.com/leandroluizpereira/javascript/wiki/2.0-M%C3%A9todos)
+ <!--
  * [Função (procedimento)]()
 
- <!--
+
 ## Javascript & Html
   :star:Javascript e web Html
    * [Mudar de tela após 6 segundos]()
