@@ -26,6 +26,9 @@
    * [(Unicode) Formatar caracteres e espaços ]()
  -
 -->
+ ## 🖥️ Prática
+ * [Site tabuada](https://github.com/leandroluizpereira/javascript/tree/main/site-tabuada)
+ * [site imc](https://github.com/leandroluizpereira/javascript/tree/main/site_imc)
  
  <div id="sobre">
  
