@@ -4,5 +4,6 @@
 
  * animaçâo keyframes
  * usando o for encadeado para formar a tabuada do 0 até a tabuada do 10
+ * position:absolute
 
 ![imagem](https://github.com/leandroluizpereira/javascript/blob/main/site-tabuada/2021-06-24%20(3).png)
