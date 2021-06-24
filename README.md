@@ -9,12 +9,14 @@
  * [Operadores Aritimética](https://github.com/leandroluizpereira/javascript/wiki/1.3-Operadores-Aritim%C3%A9tica)
  * [Operadores Lógico](https://github.com/leandroluizpereira/javascript/wiki/1.4-Operadores-L%C3%B3gico)
  * [Interpolaçâo de variáveis](https://github.com/leandroluizpereira/javascript/wiki/1.5-Interpola%C3%A7%C3%A2o-de-vari%C3%A1veis)
-  <!--
- * [String : manipulando caracteres ]()
- * [Concatenaçâo de variáveis]()
+ * [String : manipulando caracteres ](https://github.com/leandroluizpereira/javascript/wiki/1.6-String-:-manipulando-caracteres)
+ * [Concatenaçâo de variáveis](https://github.com/leandroluizpereira/javascript/wiki/1.7-Concatena%C3%A7%C3%A2o-de-vari%C3%A1veis)
+ <!--
  * [Estrutura de desição (if,swicth)]()
  * [Estrutura de repetiçâo (for,while,do-while)]()
- * [Métodos]()
+-->
+ * [Métodos](https://github.com/leandroluizpereira/javascript/wiki/2.0-M%C3%A9todos)
+ <!--
  * [Função (procedimento)]()
 
  <!--
