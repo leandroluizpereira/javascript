@@ -5,4 +5,4 @@
  * criando função botao(); 
  * pegando valores do input 
 
-![imagem](https://github.com/leandroluizpereira/javascript/blob/main/site_imc/2021-06-23.png)
+![imagem](https://github.com/leandroluizpereira/javascript/blob/main/2021-06-24%20(1).png)
