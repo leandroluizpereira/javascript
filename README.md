@@ -1,4 +1,4 @@
-# 📚 linguagem Javascript anotaçôes importante das máterias
+# 📚 linguagem Javascript anotaçôes e práticas
 
  ## anotaçôes (link dos tópicos do  Wiki)
  :star:Básico
