@@ -22,30 +22,30 @@ console.log(dia);
 console.log(hora);
 console.log(horac);
 
-console.log(\u0000)   // \o caractere bull
+console.log("\u0000")   // \o caractere bull
 
-console.log(\u0008)   // \b Retrocesso
-
-
-console.log(\u0009)   // \t Tabulação horizontal 
+console.log("\u0008")   // \b Retrocesso
 
 
-console.log(\u000A)   // \n Nova linha
+console.log("\u0009")   // \t Tabulação horizontal 
 
 
-console.log(\u000B)   // \v Tabulação vertical
+console.log("\u000A")   // \n Nova linha
 
 
-console.log(\u000C)  //  \f Avanço de página
+console.log("\u000B")   // \v Tabulação vertical
 
 
-console.log(\u000D)  //  \r Retorno de carro
+console.log("\u000C")  //  \f Avanço de página
 
 
-console.log(\u0022)  //  \" aspas duplas
+console.log("\u000D")  //  \r Retorno de carro
 
 
-console.log(\u0027)  // \' apóstrofo ou aspas simples
+console.log("\u0022")  //  \" aspas duplas
 
 
-console.log(\u005C)  // \\ barra invertida
+console.log("\u0027")  // \' apóstrofo ou aspas simples
+
+
+console.log("\u005C")  // \\ barra invertida
