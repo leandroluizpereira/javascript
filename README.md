@@ -1,6 +1,6 @@
-# 📚 Anotaçôes sobre a linguagem Javascript
+# 📚 linguagem Javascript anotaçôes e práticas
 
- ## Tópicos Wiki
+ ## anotaçôes (link dos tópicos do  Wiki)
  :star:Básico
  * [Fontes e pesquisas](https://github.com/leandroluizpereira/javascript/wiki)
  * [Sintaxe da linguagem](https://github.com/leandroluizpereira/javascript/wiki/1-sintaxe-da-linguagem)
@@ -26,9 +26,13 @@
    * [(Unicode) Formatar caracteres e espaços ]()
  -
 -->
- ## 🖥️ Prática
- * [Site tabuada](https://github.com/leandroluizpereira/javascript/tree/main/site-tabuada)
- * [site imc](https://github.com/leandroluizpereira/javascript/tree/main/site_imc)
+ ## 🖥️ Prática (link dos repósitorios)
+ * [site: tabuada](https://github.com/leandroluizpereira/javascript/tree/main/site-tabuada)
+ * [site: imc](https://github.com/leandroluizpereira/javascript/tree/main/site_imc)
+ 
+## :star: site completo (link dos repósitorios)
+ * [site: google_glass - Curso em video Gustavo Guanabara](https://github.com/leandroluizpereira/site-google-glass)
+ * [site: tudo sobre esporte - projeto integrado 7º semestre](https://github.com/leandroluizpereira/project-web-sport)
  
  <div id="sobre">
  
