@@ -1,4 +1,4 @@
-function calculos(){
+function calcular(){
 var n = document.getElementById("number").value;
 var n1 = document.getElementById("numberUm").value;
 
