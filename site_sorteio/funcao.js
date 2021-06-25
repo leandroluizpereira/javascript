@@ -2,13 +2,11 @@ function sorteio(){
  
     var rand = Math.random()*6 ;
 
-
-
-
-
           if (rand <=1){
+          
              document.getElementById("nome").innerHTML="Leandro foi sorteado";
              console.log("Leandro "+rand);
+            
 }
 else if (rand <=2){
     document.getElementById("nome").innerHTML="João foi sorteado";
@@ -33,6 +31,6 @@ else if (rand <=2){
    else {
     document.getElementById("nome").innerHTML="tente novamente !";
    }
-
+   
 }
  
