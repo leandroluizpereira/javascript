@@ -1,0 +1,46 @@
+h1{
+    border-radius: 10px;
+    border: 2px solid rgb(55, 0, 73);
+    background-color:blueviolet;
+    text-align: center;
+    color: rgb(212, 184, 238);
+}
+
+body{
+    margin: opx;
+    background-color: rgb(230, 224, 230);
+}
+
+main{
+    
+    margin: auto;
+    width: 380px;
+    background-color: rgb(230, 224, 230);
+}
+.container-buttton{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+.botao{
+    background-color: rgb(55, 0, 73);
+    color: white;
+    
+}
+table{
+    background-color: rgb(55, 0, 73);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 380px;
+    border:1px solid black;
+}
+td{
+    color: white;
+    border:1px solid black;
+    text-align: center;
+}
+
+.td-left{
+    background-color: rgb(216, 181, 248);
+    color:rgb(55, 0, 73)
+}
