@@ -16,8 +16,8 @@
  * [Estrutura de repetiçâo (for,while,do-while)]()
 -->
  * [Métodos](https://github.com/leandroluizpereira/javascript/wiki/2.0-M%C3%A9todos)
- <!--
- * [Função (procedimento)]()
+ * [Função (procedimento)](https://github.com/leandroluizpereira/javascript/wiki/1.9-Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while)
+
 
  <!--
 ## Javascript & Html
