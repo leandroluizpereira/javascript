@@ -49,3 +49,23 @@ console.log("\u0027")  // \' apóstrofo ou aspas simples
 
 
 console.log("\u005C")  // \\ barra invertida
+
+
+
+var idade = 25;
+if (idade <11){
+
+console.log("Criança");
+}
+else if (idade > 12 && idade < 17){
+
+console.log("Adolescente");
+}
+
+else if (idade >= 18 && idade <= 55){
+
+console.log("Adulto");
+}
+else {
+console.log("Idoso");
+}
