@@ -17,9 +17,10 @@
  * [Função (procedimento)](https://github.com/leandroluizpereira/javascript/wiki/1.9-fun%C3%A7%C3%A2o)
 
 
- <!--
+
 ## Javascript & Html
   :star:Javascript e web Html
+   <!--
    * [Mudar de tela após 6 segundos]()
    * [(Unicode) Formatar caracteres e espaços ]()
  -
