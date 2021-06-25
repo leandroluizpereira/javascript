@@ -6,7 +6,7 @@
  * [Sintaxe da linguagem](https://github.com/leandroluizpereira/javascript/wiki/1-sintaxe-da-linguagem)
  * [Sobre a linguagem javascript](https://github.com/leandroluizpereira/javascript/wiki/1.1-sobre-a-linguagem-javascript)
  * [Declaraçâo de variáveis](https://github.com/leandroluizpereira/javascript/wiki/1.2-Declara%C3%A7%C3%A2o-de-vari%C3%A1veis)
- * [Operadores Aritimética](https://github.com/leandroluizpereira/javascript/wiki/1.3-Operadores-Aritim%C3%A9tica)
+ * [Operadores Aritiméticos](https://github.com/leandroluizpereira/javascript/wiki/1.3-Operadores-Aritim%C3%A9ticos)
  * [Operadores Lógico](https://github.com/leandroluizpereira/javascript/wiki/1.4-Operadores-L%C3%B3gico)
  * [Interpolaçâo de variáveis](https://github.com/leandroluizpereira/javascript/wiki/1.5-Interpola%C3%A7%C3%A2o-de-vari%C3%A1veis)
  * [String : manipulando caracteres ](https://github.com/leandroluizpereira/javascript/wiki/1.6-String-:-manipulando-caracteres)
