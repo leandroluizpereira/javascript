@@ -11,17 +11,16 @@
  * [Interpolaçâo de variáveis](https://github.com/leandroluizpereira/javascript/wiki/1.5-Interpola%C3%A7%C3%A2o-de-vari%C3%A1veis)
  * [String : manipulando caracteres ](https://github.com/leandroluizpereira/javascript/wiki/1.6-String-:-manipulando-caracteres)
  * [Concatenaçâo de variáveis](https://github.com/leandroluizpereira/javascript/wiki/1.7-Concatena%C3%A7%C3%A2o-de-vari%C3%A1veis)
- <!--
- * [Estrutura de desição (if,swicth)]()
- * [Estrutura de repetiçâo (for,while,do-while)]()
--->
+ * [Estrutura de desição (if,swicth)](https://github.com/leandroluizpereira/javascript/wiki/1.8-Estrutura-de-desi%C3%A7%C3%A3o-(if,swicth))
+ * [Estrutura de repetiçâo (for,while,do-while)](https://github.com/leandroluizpereira/javascript/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
  * [Métodos](https://github.com/leandroluizpereira/javascript/wiki/2.0-M%C3%A9todos)
- <!--
- * [Função (procedimento)]()
+ * [Função (procedimento)](https://github.com/leandroluizpereira/javascript/wiki/1.9-fun%C3%A7%C3%A2o)
 
- <!--
+
+
 ## Javascript & Html
   :star:Javascript e web Html
+   <!--
    * [Mudar de tela após 6 segundos]()
    * [(Unicode) Formatar caracteres e espaços ]()
  -
