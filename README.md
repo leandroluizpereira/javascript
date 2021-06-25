@@ -14,7 +14,7 @@
  * [Estrutura de desição (if,swicth)](https://github.com/leandroluizpereira/javascript/wiki/1.8-Estrutura-de-desi%C3%A7%C3%A3o-(if,swicth))
  * [Estrutura de repetiçâo (for,while,do-while)](https://github.com/leandroluizpereira/javascript/wiki/1.99-Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
  * [Métodos](https://github.com/leandroluizpereira/javascript/wiki/2.0-M%C3%A9todos)
- * [Função (procedimento)](https://github.com/leandroluizpereira/javascript/wiki/1.9-Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
+ * [Função (procedimento)](https://github.com/leandroluizpereira/javascript/wiki/1.9-fun%C3%A7%C3%A2o)
 
 
  <!--
