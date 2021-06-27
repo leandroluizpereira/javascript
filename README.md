@@ -34,6 +34,7 @@
 ## :star: site completo (link dos repósitorios)
  * [site: google_glass - Curso em video Gustavo Guanabara](https://github.com/leandroluizpereira/site-google-glass)
  * [site: tudo sobre esporte - projeto integrado 7º semestre](https://github.com/leandroluizpereira/project-web-sport)
+ * [site: portifolio - (em desenvolvimento) ](https://github.com/leandroluizpereira/site-portifolio-le/blob/main/README.md)
 
 ## 🥇 Certificado (link Wiki)
 [Certificados](https://github.com/leandroluizpereira/javascript/wiki/certificados)
