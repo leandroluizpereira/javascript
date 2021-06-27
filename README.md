@@ -27,7 +27,7 @@
 -->
  ## 🖥️ Prática (link dos repósitorios)
  * [site: sorteio](https://github.com/leandroluizpereira/site-sorteio)
- * [site: tabuada](https://github.com/leandroluizpereira/javascript/tree/main/site-tabuada)
+ * [site: tabuada](https://github.com/leandroluizpereira/site-tabuada)
  * [site: imc](https://github.com/leandroluizpereira/javascript/tree/main/site_imc)
  * [site: operadores aritméticos](https://github.com/leandroluizpereira/javascript/tree/main/site_aritmetica)
  
