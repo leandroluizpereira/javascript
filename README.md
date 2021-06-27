@@ -29,7 +29,7 @@
  * [site: sorteio](https://github.com/leandroluizpereira/site-sorteio)
  * [site: tabuada](https://github.com/leandroluizpereira/site-tabuada)
  * [site: imc](https://github.com/leandroluizpereira/site-imc/blob/main/README.md)
- * [site: operadores aritméticos](https://github.com/leandroluizpereira/javascript/tree/main/site_aritmetica)
+ * [site: operadores aritméticos](https://github.com/leandroluizpereira/site-operadores-aritmeticos)
  
 ## :star: site completo (link dos repósitorios)
  * [site: google_glass - Curso em video Gustavo Guanabara](https://github.com/leandroluizpereira/site-google-glass)
