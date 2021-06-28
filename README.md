@@ -5,8 +5,8 @@
 
 ## pratica 
 
-[site: tabuada]()
-[site:imc]()
-[site: Operadores aritméticos]()
-[site:sorteio]()
+* [site: tabuada]()
+* [site:imc]()
+* [site: Operadores aritméticos]()
+* [site:sorteio]()
  
