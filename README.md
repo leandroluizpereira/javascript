@@ -9,5 +9,5 @@
 * [site:sorteio]()
 
 ## site completo 
-*[site:portifolio (em desenvolvimento](https://leandroluizpereira.github.io/site-portifolio-le/))
+*[site:portifolio (em desenvolvimento](https://leandroluizpereira.github.io/site-portifolio-le/)
  
