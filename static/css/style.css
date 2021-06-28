@@ -54,8 +54,12 @@ h3{
     background-color: darkcyan;
 }
 h4{
-    text-align: center;
+    margin: 8px;
+
     color:darkcyan;
+}
+.h4-center{
+    text-align: center;
 }
 
 aside{
