@@ -11,5 +11,5 @@
 ## site completo 
 * [site : portifolio (em desenvolvimento](https://leandroluizpereira.github.io/site-portifolio-le/)
 * [site : google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
-* [site : project - web](https://leandroluizpereira.github.io/project-web-sport/)
+* [site : tudo sobre esporte (projeto integrado 7º semestre](https://leandroluizpereira.github.io/project-web-sport/)
  
