@@ -4,7 +4,7 @@
 ## prática 
 
 * [site: tabuada](https://leandroluizpereira.github.io/site-tabuada/)
-* [site:imc]()
+* [site:imc](https://leandroluizpereira.github.io/site-imc/)
 * [site: Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
 * [site:sorteio](https://leandroluizpereira.github.io/site-sorteio/)
 
