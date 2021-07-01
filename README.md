@@ -3,13 +3,13 @@
 
 ## prática 
 
-* [site : tabuada (https://leandroluizpereira.github.io/site-tabuada/)](https://leandroluizpereira.github.io/site-tabuada/)
-* [site : imc (https://leandroluizpereira.github.io/site-imc/)](https://leandroluizpereira.github.io/site-imc/)
-* [site : Operadores aritméticos (https://leandroluizpereira.github.io/site-operadores-aritmeticos/)](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
-* [site : sorteio (https://leandroluizpereira.github.io/site-sorteio/)](https://leandroluizpereira.github.io/site-sorteio/)
+* [site : tabuada](https://leandroluizpereira.github.io/site-tabuada/)
+* [site : imc](https://leandroluizpereira.github.io/site-imc/)
+* [site : Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
+* [site : sorteio](https://leandroluizpereira.github.io/site-sorteio/)
 
 ## site completo 
-* [site : portifolio (em desenvolvimento) (https://leandroluizpereira.github.io/site-portifolio-le/)](https://leandroluizpereira.github.io/site-portifolio-le/)
-* [site : google_glass (curso em video - Gustavo Guanabara) (https://leandroluizpereira.github.io/site-google-glass/)](https://leandroluizpereira.github.io/site-google-glass/)
-* [site : tudo sobre esporte (projeto integrado 7º semestre) (https://leandroluizpereira.github.io/project-web-sport/)](https://leandroluizpereira.github.io/project-web-sport/)
+* [site : portifolio (em desenvolvimento)](https://leandroluizpereira.github.io/site-portifolio-le/)
+* [site : google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
+* [site : tudo sobre esporte (projeto integrado 7º semestre)](https://leandroluizpereira.github.io/project-web-sport/)
  
