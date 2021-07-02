@@ -3,13 +3,15 @@
 
 ## prática 
 
-* [site : tabuada](https://leandroluizpereira.github.io/site-tabuada/)
-* [site : imc](https://leandroluizpereira.github.io/site-imc/)
+* [site : Tabuada](https://leandroluizpereira.github.io/site-tabuada/)
+* [site : Imc](https://leandroluizpereira.github.io/site-imc/)
 * [site : Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
-* [site : sorteio](https://leandroluizpereira.github.io/site-sorteio/)
+* [site : Sorteio](https://leandroluizpereira.github.io/site-sorteio/)
+* [site : Calculadora (em desenvolvimento)](https://leandroluizpereira.github.io/site_calculadora/)
+
 
 ## site completo 
-* [site : portifolio (em desenvolvimento)](https://leandroluizpereira.github.io/site-portifolio-le/)
-* [site : google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
-* [site : tudo sobre esporte (projeto integrado 7º semestre)](https://leandroluizpereira.github.io/project-web-sport/)
+* [site : Portifolio (em desenvolvimento)](https://leandroluizpereira.github.io/site-portifolio-le/)
+* [site : Google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
+* [site : Tudo sobre esporte (projeto integrado 7º semestre)](https://leandroluizpereira.github.io/project-web-sport/)
  
