@@ -7,7 +7,7 @@
 * [site : Imc](https://leandroluizpereira.github.io/site-imc/)
 * [site : Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
 * [site : Sorteio](https://leandroluizpereira.github.io/site-sorteio/)
-* [site : Calculadora (em desenvolvimento)](https://leandroluizpereira.github.io/site_calculadora/)
+* [site : Calculadora](https://leandroluizpereira.github.io/site_calculadora/)
 
 
 ## site completo 
