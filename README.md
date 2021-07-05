@@ -13,6 +13,7 @@
 * [Concatenação de variáveis](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.7-Concatena%C3%A7%C3%A2o-de-vari%C3%A1veis)
 * [Estrutura de desição (if,swicth) ](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.8-Estrutura-de-desi%C3%A7%C3%A3o-(if,swicth))
 * [Função](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.9-fun%C3%A7%C3%A2o)
+* [Estrutura de repetição (for,while,do while)](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
 
 ## prática 
 
