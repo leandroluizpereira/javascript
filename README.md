@@ -16,7 +16,7 @@
 * [Estrutura de repetição (for,while,do while)](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
 * [Métodos](https://github.com/leandroluizpereira/web-design-frond-end/wiki/2.0-M%C3%A9todos)
 
-## 🥇 Certificados
+## 🥇 Certificado
 * [certificado](https://github.com/leandroluizpereira/web-design-frond-end/wiki/certificados)
 
 ## 💻 prática 
