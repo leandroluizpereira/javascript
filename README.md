@@ -1,5 +1,8 @@
 
+## tópico wiki (link)
+:star: Básico
 
+* [Sintaxe da linguagem ](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1-sintaxe-da-linguagem)
 
 ## prática 
 
