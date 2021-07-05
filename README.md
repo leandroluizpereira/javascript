@@ -6,6 +6,7 @@
 * [Sintaxe da linguagem ](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1-sintaxe-da-linguagem)
 * [Sobre a linguagem](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.1-sobre-a-linguagem-javascript)
 * [Declaração de variáveis](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.2-Declara%C3%A7%C3%A2o-de-vari%C3%A1veis)
+* [Operadores Aritiméticos](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.3-Operadores-Aritim%C3%A9ticos)
 
 ## prática 
 
