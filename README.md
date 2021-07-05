@@ -16,10 +16,10 @@
 * [Estrutura de repetição (for,while,do while)](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
 * [Métodos](https://github.com/leandroluizpereira/web-design-frond-end/wiki/2.0-M%C3%A9todos)
 
-## 🥇 Certificado
+## 🥇 Certificado (link)
 * [certificado](https://github.com/leandroluizpereira/web-design-frond-end/wiki/certificados)
 
-## 💻 prática 
+## 💻 prática (link github pages)
 
 * [site : Tabuada](https://leandroluizpereira.github.io/site-tabuada/)
 * [site : Imc](https://leandroluizpereira.github.io/site-imc/)
@@ -28,7 +28,7 @@
 * [site : Calculadora](https://leandroluizpereira.github.io/site_calculadora/)
 
 
-## 💻 site completo 
+## 💻 site completo (link github pages)
 * [site : Portifolio (em desenvolvimento)](https://leandroluizpereira.github.io/site-portifolio-le/)
 * [site : Google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
 * [site : Tudo sobre esporte (projeto integrado 7º semestre)](https://leandroluizpereira.github.io/project-web-sport/)
