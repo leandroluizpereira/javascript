@@ -17,7 +17,7 @@
 * [Métodos](https://github.com/leandroluizpereira/web-design-frond-end/wiki/2.0-M%C3%A9todos)
 
 ## 🥇 Certificados
-*[certificado](https://github.com/leandroluizpereira/web-design-frond-end/wiki/certificados)
+* [certificado](https://github.com/leandroluizpereira/web-design-frond-end/wiki/certificados)
 
 ## 💻 prática 
 
