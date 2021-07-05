@@ -1,6 +1,6 @@
 
 ## tópico (link wiki)
-:star: Básico
+:star: Básico   🛑
 
 * [Fontes](https://github.com/leandroluizpereira/web-design-frond-end/wiki)
 * [Sintaxe da linguagem ](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1-sintaxe-da-linguagem)
@@ -26,12 +26,12 @@
 * [site : Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
 * [site : Sorteio](https://leandroluizpereira.github.io/site-sorteio/)
 * [site : Calculadora](https://leandroluizpereira.github.io/site_calculadora/)
-* [site : exercicios javascript curso em video ( em desenvolvimento)](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
+* [site : exercicios javascript curso em video ( em desenvolvimento)🛑](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
 
 
 ## 💻 site completo (link github pages)
-* [site : Portifolio (em desenvolvimento)](https://leandroluizpereira.github.io/site-portifolio-le/)
-* [site : Android (em desenvolvimento curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-android/)
+* [site : Portifolio (em desenvolvimento)🛑](https://leandroluizpereira.github.io/site-portifolio-le/)
+* [site : Android (em desenvolvimento curso em video - Gustavo Guanabara)🛑](https://leandroluizpereira.github.io/site-android/)
 * [site : Google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
 * [site : Tudo sobre esporte (projeto integrado 7º semestre)](https://leandroluizpereira.github.io/project-web-sport/)
  
