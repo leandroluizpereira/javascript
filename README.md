@@ -1,6 +1,6 @@
 
 ## tópico (link wiki)
-:star: Básico   🛑
+:star: Básico  
 
 * [Fontes](https://github.com/leandroluizpereira/web-design-frond-end/wiki)
 * [Sintaxe da linguagem ](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1-sintaxe-da-linguagem)
