@@ -1,5 +1,5 @@
 
-## tópico wiki (link)
+## tópico (link wiki)
 :star: Básico
 
 * [Fontes](https://github.com/leandroluizpereira/web-design-frond-end/wiki)
