@@ -26,7 +26,7 @@
 * [site : Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
 * [site : Sorteio](https://leandroluizpereira.github.io/site-sorteio/)
 * [site : Calculadora](https://leandroluizpereira.github.io/site_calculadora/)
-* [site : exercicios javascript curso em video ( em desenvolvimento)🛑](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
+* [site : exercicios javascript (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
 
 
 ## 💻 site completo (link github pages)
