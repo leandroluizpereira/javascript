@@ -30,7 +30,7 @@
 
 ## 💻 prática Bootstrap (link github pages)
 
-* [site : bootstrap componentes](https://leandroluizpereira.github.io/site_bootstrap/)
+* [site : bootstrap componentes (em desenvolvimento)🛑](https://leandroluizpereira.github.io/site_bootstrap/)
 
 ## 💻 site completo (link github pages)
 * [site : Portifolio (em desenvolvimento)🛑](https://leandroluizpereira.github.io/site-portifolio-le/)
