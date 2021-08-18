@@ -37,5 +37,6 @@
 * [site : Android (em desenvolvimento curso em video - Gustavo Guanabara)🛑](https://leandroluizpereira.github.io/site-android/)
 * [site : Google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
 * [site : Tudo sobre esporte (projeto integrado 7º semestre - 2021)](https://leandroluizpereira.github.io/project-web-sport/)
-* [site : barbearia (em desenvolvimento curso Alura)�](https://leandroluizpereira.github.io/site-barbearia/)
+* [site : barbearia (curso Alura)�](https://leandroluizpereira.github.io/site-barbearia/)
+* [site : barbearia produtos (em desenvolvimento curso Alura)🛑](https://leandroluizpereira.github.io/site-barbearia-produtos/)
  
