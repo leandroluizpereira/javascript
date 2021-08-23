@@ -18,7 +18,7 @@
 
 :star: Html Css (link wiki)
 
-*[pseudo elemento](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.0-Pseudo---elemento)
+* [pseudo elemento](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.0-Pseudo---elemento)
 
 
 ## 🥇 Certificado (link wiki)
