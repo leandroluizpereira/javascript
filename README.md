@@ -17,7 +17,8 @@
 * [Métodos](https://github.com/leandroluizpereira/web-design-frond-end/wiki/2.0-M%C3%A9todos)
 
 :star: Html Css (link wiki)
-*[pseudo elemento]()
+
+*[pseudo elemento](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.0-Pseudo---elemento)
 
 
 ## 🥇 Certificado (link wiki)
