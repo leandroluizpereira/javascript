@@ -19,7 +19,7 @@
 :star::star: html Css javascript (link wiki)
 
 * [pseudo elemento](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.0-Pseudo---elemento)
-* [querySelector](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.1-querySelector-e-querySelectorAll)
+* [querySelector e querySelectorAll](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.1-querySelector-e-querySelectorAll)
 
 
 ## 🥇 Certificado (link wiki)
