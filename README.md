@@ -21,7 +21,7 @@
 * [pseudo elemento](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.0-Pseudo---elemento)
 * [querySelector e querySelectorAll](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.1-querySelector-e-querySelectorAll)
 * [addEventListener](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.2-addEventListener)
-* [createElement]()
+* [createElement](https://github.com/leandroluizpereira/web-design-frond-end/wiki/3.2-createElement)
 
 
 ## 🥇 Certificado (link wiki)
