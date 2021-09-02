@@ -37,6 +37,7 @@
 * [site : Calculadora](https://leandroluizpereira.github.io/site_calculadora/)
 * [site : exercicios javascript (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
 * [site : barbearia (curso Alura)](https://leandroluizpereira.github.io/site-barbearia/)
+* [site : aparecida nutricionista (curso Alura)](https://leandroluizpereira.github.io/site-aparecida-nutricionista/)
 
 ## 💻 prática Bootstrap (link github pages)
 
