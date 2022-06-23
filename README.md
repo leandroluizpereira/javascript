@@ -38,6 +38,7 @@
 * [site : exercicios javascript (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
 * [site : barbearia (curso Alura)](https://leandroluizpereira.github.io/site-barbearia/)
 * [site : aparecida nutricionista (curso Alura)](https://leandroluizpereira.github.io/site-aparecida-nutricionista/)
+* [site : sistema de cadastro crus (ema andamento)]( https://leandroluizpereira.github.io/site-cadastro-crud/)
 
 ## 💻 prática Bootstrap (link github pages)
 
