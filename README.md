@@ -39,6 +39,7 @@
 * [site : barbearia (curso Alura)](https://leandroluizpereira.github.io/site-barbearia/)
 * [site : aparecida nutricionista (curso Alura)](https://leandroluizpereira.github.io/site-aparecida-nutricionista/)
 * [site : sistema de cadastro crud (em andamento) :⭐]( https://leandroluizpereira.github.io/site-cadastro-crud/)
+* [site : quizz (in process)](https://leandroluizpereira.github.io/site_diversos/)
 
 ## 💻 prática Bootstrap (link github pages)
 
