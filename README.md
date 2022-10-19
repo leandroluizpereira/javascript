@@ -52,6 +52,7 @@
 * [site : Google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
 * [site : Tudo sobre esporte (projeto integrado 7º semestre - 2021)](https://leandroluizpereira.github.io/project-web-sport/)   [:star: Código fonte](https://github.com/leandroluizpereira/project-web-sport)
 * [site : barbearia produtos (curso Alura](https://leandroluizpereira.github.io/site-barbearia-produtos/) 
+* [site : Poetry](https://leandroluizpereira.github.io/site-poetry/)
  
  
 
