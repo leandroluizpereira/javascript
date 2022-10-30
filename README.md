@@ -5,7 +5,7 @@
 |:--: |:--:|
 | Projeto em desenvolvimento    |  🛑  |
 | Meus projetos Favoritos | :heart: |
-| Nivel de dificuldae | :star: :star: :star: |
+| Nivel de dificuldade | :star: :star: :star: |
 | Código Fonte - local do repositório | ☕|
 
 
