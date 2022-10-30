@@ -1,11 +1,12 @@
 
-<strong> Legenda </strong>
+<strong> Os significados dos logotipos :</strong>
 
 |Descrição | Logotipo   |
 |:--: |:--:|
-| Em andamento     |  🛑  |
-| Meus Favoritos | :star: |
-| Código Fonte | Local do repositório|
+| Projeto em desenvolvimento    |  🛑  |
+| Meus projetos Favoritos | :heart: |
+| Nivel de dificuldae | :star: |
+| Código Fonte - local do repositório | ☕|
 
 
 
@@ -48,8 +49,8 @@
 * [site : Exercicios javascript (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
 * [site : Barbearia (curso Alura)](https://leandroluizpereira.github.io/site-barbearia/)
 * [site : Aparecida nutricionista (curso Alura)](https://leandroluizpereira.github.io/site-aparecida-nutricionista/)
-* [site : Sistema de cadastro crud (em andamento) :⭐]( https://leandroluizpereira.github.io/site-cadastro-crud/)
-* [site : Quizz (in process)](https://leandroluizpereira.github.io/site_diversos/)
+* [site : Sistema de cadastro crud (em andamento) :heart:]( https://leandroluizpereira.github.io/site-cadastro-crud/)
+* [site : Quizz 🛑](https://leandroluizpereira.github.io/site_diversos/)
 
 ## 💻 prática Bootstrap (link github pages)
 
@@ -60,10 +61,10 @@
 * [site : Doações](https://leandroluizpereira.github.io/site-doacoes/)
 * [site : Android (em desenvolvimento curso em video - Gustavo Guanabara)🛑](https://leandroluizpereira.github.io/site-android/)
 * [site : Google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
-* [site : Tudo sobre esporte (projeto integrado 7º semestre - 2021)](https://leandroluizpereira.github.io/project-web-sport/)   [:star: Código fonte](https://github.com/leandroluizpereira/project-web-sport)
+* [site : Tudo sobre esporte (projeto integrado 7º semestre - 2021) :heart: ](https://leandroluizpereira.github.io/project-web-sport/)   [ Código fonte](https://github.com/leandroluizpereira/project-web-sport)
 * [site : Barbearia produtos (curso Alura](https://leandroluizpereira.github.io/site-barbearia-produtos/) 
-* [site : Poetry version : sem banco de dados ](https://leandroluizpereira.github.io/site-poetry/) [:star: Código Fonte](https://github.com/leandroluizpereira/site-poetry)
-* [site : Poetry version : com banco de dados 🛑]()  [:star: Código Fonte]()
+* [site : Poetry version : sem banco de dados ](https://leandroluizpereira.github.io/site-poetry/) [Código Fonte ☕](https://github.com/leandroluizpereira/site-poetry)
+* [site : Poetry version : com banco de dados 🛑]()  [ Código Fonte ☕]()
  
  
 
