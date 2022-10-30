@@ -1,4 +1,13 @@
 
+<strong> Legenda </strong>
+
+|Descrição | Logotipo   |
+|:--: |:--:|
+| Em andamento     |  🛑  |
+| Meus Favoritos | :star: |
+
+
+
 ## tópico (link wiki)
 :star: Básico  
 
@@ -35,11 +44,11 @@
 * [site : Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
 * [site : Sorteio](https://leandroluizpereira.github.io/site-sorteio/)
 * [site : Calculadora](https://leandroluizpereira.github.io/site_calculadora/)
-* [site : exercicios javascript (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
-* [site : barbearia (curso Alura)](https://leandroluizpereira.github.io/site-barbearia/)
-* [site : aparecida nutricionista (curso Alura)](https://leandroluizpereira.github.io/site-aparecida-nutricionista/)
-* [site : sistema de cadastro crud (em andamento) :⭐]( https://leandroluizpereira.github.io/site-cadastro-crud/)
-* [site : quizz (in process)](https://leandroluizpereira.github.io/site_diversos/)
+* [site : Exercicios javascript (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site_exercicios_javascript_curso_em_video/)
+* [site : Barbearia (curso Alura)](https://leandroluizpereira.github.io/site-barbearia/)
+* [site : Aparecida nutricionista (curso Alura)](https://leandroluizpereira.github.io/site-aparecida-nutricionista/)
+* [site : Sistema de cadastro crud (em andamento) :⭐]( https://leandroluizpereira.github.io/site-cadastro-crud/)
+* [site : Quizz (in process)](https://leandroluizpereira.github.io/site_diversos/)
 
 ## 💻 prática Bootstrap (link github pages)
 
@@ -51,8 +60,9 @@
 * [site : Android (em desenvolvimento curso em video - Gustavo Guanabara)🛑](https://leandroluizpereira.github.io/site-android/)
 * [site : Google_glass (curso em video - Gustavo Guanabara)](https://leandroluizpereira.github.io/site-google-glass/)
 * [site : Tudo sobre esporte (projeto integrado 7º semestre - 2021)](https://leandroluizpereira.github.io/project-web-sport/)   [:star: Código fonte](https://github.com/leandroluizpereira/project-web-sport)
-* [site : barbearia produtos (curso Alura](https://leandroluizpereira.github.io/site-barbearia-produtos/) 
-* [site : Poetry](https://leandroluizpereira.github.io/site-poetry/) [:star: Código Fonte](https://github.com/leandroluizpereira/site-poetry)
+* [site : Barbearia produtos (curso Alura](https://leandroluizpereira.github.io/site-barbearia-produtos/) 
+* [site : Poetry version : sem banco de dados ](https://leandroluizpereira.github.io/site-poetry/) [:star: Código Fonte](https://github.com/leandroluizpereira/site-poetry)
+* [site : Poetry version : com banco de dados 🛑]()  [:star: Código Fonte]()
  
  
 
