@@ -64,7 +64,7 @@
 * [site : Tudo sobre esporte (projeto integrado 7º semestre - 2021) :heart: ](https://leandroluizpereira.github.io/project-web-sport/)   [ Código fonte](https://github.com/leandroluizpereira/project-web-sport)
 * [site : Barbearia produtos (curso Alura](https://leandroluizpereira.github.io/site-barbearia-produtos/) 
 * [site : Poetry version : sem banco de dados ](https://leandroluizpereira.github.io/site-poetry/) [Código Fonte ☕](https://github.com/leandroluizpereira/site-poetry)
-* [site : Poetry version : com banco de dados 🛑]()  [ Código Fonte ☕]()
+* [site : Poetry version : com banco de dados 🛑](https://leandroluizpereira.github.io/site-poetry-firebase/)  [ Código Fonte ☕]()
  
  
 
