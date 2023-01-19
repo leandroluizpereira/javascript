@@ -40,7 +40,8 @@
 ## 💻 prática (link github pages)
 
 * [site : Tabuada](https://leandroluizpereira.github.io/site-tabuada/)
-* [site : Imc](https://leandroluizpereira.github.io/site-imc/)
+* [site : Cálculo tabuada](https://leandroluizpereira.github.io/site-calculo-tabuada/)
+* [site : Cálculo Imc](https://leandroluizpereira.github.io/site-imc/)
 * [site : Operadores aritméticos](https://leandroluizpereira.github.io/site-operadores-aritmeticos/)
 * [site : Sorteio](https://leandroluizpereira.github.io/site-sorteio/)
 * [site : Calculadora](https://leandroluizpereira.github.io/site_calculadora/)
