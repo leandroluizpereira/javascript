@@ -53,9 +53,6 @@
 * [site : Sistema de cadastro crud (em andamento) :heart:]( https://leandroluizpereira.github.io/site-cadastro-crud/)
 * [site : Quizz 🛑](https://leandroluizpereira.github.io/site_diversos/)
 
-## 💻 prática Bootstrap (link github pages)
-
-* [site : bootstrap alguns componentes](https://leandroluizpereira.github.io/site_bootstrap/)
 
 ## 💻 site completo (link github pages)
 * [site : Portifolio](https://leandroluizpereira.github.io/site-portifolio-le/)
