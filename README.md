@@ -1,11 +1,13 @@
-
+ 
+<!---
 <strong> Os significados dos logotipos :</strong>
-
 |Descrição | Logotipo   |
 |:--: |:--:|
 | Projeto em desenvolvimento    |  🛑  |
 | Meus projetos Favoritos | :heart: |
 | Código Fonte - local do repositório | ☕|
+--->
+
 
 
 
